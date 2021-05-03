@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,YACJ,CAEA,WACI,UAAW,CACX,WACJ","file":"main.a666bd35.chunk.css","sourcesContent":["body{\n    padding: 60px\n}\n\n.card-size{\n    width: auto;\n    height: auto;\n}\n"]}
