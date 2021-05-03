@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './index.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'animate.css/animate.min.css'
 import reportWebVitals from './reportWebVitals';
+import {GiftExpertApp} from './GiftExpertApp'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <GiftExpertApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
